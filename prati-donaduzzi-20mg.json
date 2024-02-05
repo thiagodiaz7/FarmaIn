@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2,
+    "name": "Canabidiol 20mg/ml Prati Donaduzzi Solução Oral 30ml",
+    "link": "https://www.drogariasaopaulo.com.br/canabidiol-20mg-ml-prati-donaduzzi-solucao-oral-30ml/p",
+    "img": "//drogariasp.vteximg.com.br/arquivos/ids/961654-200-200/de-referencia-tarja-preta-em-solucao-sao-paulo.jpg?v=638298017689770000",
+    "price": "R$249,90",
+    "store": "Drogaria São Paulo"
+  },
+  {
+    "id": 1,
+    "name": "Canabidiol 20mg/ml Solucao Oral 30ml Prati Donaduzzi B1",
+    "link": "https://www.panvel.com/panvel/canabidiol-20mg-ml-solucao-oral-30ml-prati-donaduzzi-b1/p-109159?type=search",
+    "img": "https://cdn1.staticpanvel.com.br/produtos/15/forbidden.jpg?ims=205x",
+    "price": "R$ 247,90",
+    "store": "Panvel"
+  },
+  {
+    "id": 1,
+    "name": "Canabidiol 20mg/Ml Prati-Donaduzzi Solução Oral Frasco Com 30ml + Seringa Dosadora Psicotrópico P/B1",
+    "img": "https://paguemenos.vtexassets.com/arquivos/ids/305802-400-400/58580-imagem-medicamento.jpg?v=637521552505100000",
+    "price": "R$ 248,55",
+    "store": "PagueMenos"
+  }
+]
